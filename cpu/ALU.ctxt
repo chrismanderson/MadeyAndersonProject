@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ALU()
+comment1.params=opcode
+comment1.target=void\ execute(int)
+comment1.text=\r\n\ Executes\ the\ instructions\ processed\ in\ the\ ALU\r\n\ @param\ opcode\r\n
+comment2.params=
+comment2.target=int\ get()
+comment2.text=\r\n\ Return\ the\ contents\ of\ the\ ALU\ result\ register\r\n\ @return\r\n
+numComments=3

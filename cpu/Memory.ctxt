@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=Memory(int)
+comment0.text=\r\n\ Initializes\ the\ memory\ bank\ to\ the\ desired\ size.\r\n\ @param\ size\r\n
+comment1.params=address\ value
+comment1.target=void\ store(int,\ int)
+comment1.text=\r\n\ Stores\ a\ value\ in\ memory.\r\n\ @param\ value\r\n\ @param\ address\r\n
+comment2.params=l
+comment2.target=int\ accessMemory(int)
+comment2.text=\r\n\ Access\ a\ value\ in\ memory.\r\n\ @param\ l\r\n\ @return\r\n
+comment3.params=faultCode
+comment3.target=void\ setFault(int)
+comment3.text=\r\n\ Sets\ the\ fault\ code\ in\ memory\ in\ the\ "1"\ block.\r\n\ @param\ faultCode\r\n
+numComments=4

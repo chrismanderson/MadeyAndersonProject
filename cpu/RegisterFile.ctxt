@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=RegisterFile(int)
+comment1.params=i
+comment1.target=Register\ get(int)
+comment2.params=i
+comment2.target=int\ getSigned(int)
+comment3.params=i
+comment3.target=int\ getContents(int)
+comment4.params=register\ value
+comment4.target=void\ set(int,\ int)
+numComments=5
